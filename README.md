@@ -5,7 +5,7 @@ Deploy [langgenius/dify](https://github.com/langgenius/dify), an LLM based chat 
 
 ## Installation
 ```
-helm repo add dify [https://github.com/Luohao-Yan/Mr.-A-helm]
+helm repo add dify https://github.com/Luohao-Yan/Mr.-A-helm
 helm repo update
 helm install my-release dify/dify
 ```
